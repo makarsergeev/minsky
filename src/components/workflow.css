@@ -1,0 +1,48 @@
+.workflow {
+    padding: 24px;
+    display: flex;
+    text-align: center;
+    position: relative;
+    background: url("../assets/workflowBG.svg");
+    background-size: 100% 484px;
+}
+
+.workflow > div:first-child {
+    text-align: left;
+}
+
+.workflow > div:last-child {
+    text-align: right;
+    margin: 0;
+}
+
+.workflow .workflow_column {
+    width: 100%;
+    margin-right: 10%;
+}
+
+.workflow_column_title {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    opacity: 0.38;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+@media screen and (max-width: 768px) {
+    .workflow {
+        flex-direction: column;
+        background: none;
+        text-align: left;
+    }
+
+    .workflow > div:last-child {
+        text-align: left;
+    }
+
+    .workflow .workflow_column {
+        margin: 0 0 24px;
+    }
+}

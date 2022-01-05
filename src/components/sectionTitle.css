@@ -1,0 +1,27 @@
+.section_title {
+    padding: 24px 24px 12px;
+}
+
+.section_title h1 {
+    margin: 0 0 16px;
+}
+
+.section_title > div {
+    width: 72px;
+    height: 4px;
+    border-radius: 2px;
+    background: #4DDBB7;
+    opacity: 0.6;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .section_title {
+        text-align: center;
+    }
+
+    .section_title > div {
+        margin: auto;
+    }
+}

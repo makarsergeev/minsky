@@ -1,0 +1,23 @@
+.carousel {
+    display: flex;
+    box-sizing: border-box;
+    padding: 12px;
+    margin-bottom: 72px;
+}
+
+.carousel_screens {
+    width: 64%;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+.carousel_screens img {
+    display: block;
+    width: 100%;
+}
+
+.carousel_toggles {
+    width: 36%;
+    box-sizing: border-box;
+    padding: 12px;
+}

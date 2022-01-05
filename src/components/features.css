@@ -1,0 +1,14 @@
+.features {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px;
+}
+
+@media screen and (max-width: 768px) {
+    .features {
+        flex-direction: column;
+
+        padding: 24px;
+    }
+}

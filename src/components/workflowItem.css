@@ -1,0 +1,24 @@
+.workflow_item {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 18px;
+    background: #1D2125;
+    border-radius: 12px;
+    border: 1px solid rgba(245, 247, 250, 0.1);
+    margin-bottom: 12px;
+
+    transition: cubic-bezier(0.4, 0, 0.2, 1) 0.15s;
+}
+
+.workflow_item:hover {
+    background: #23272D;
+}
+
+.workflow_item p {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    opacity: 0.6;
+    margin: 2px 0 0;
+}

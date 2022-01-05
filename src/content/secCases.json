@@ -1,0 +1,36 @@
+{
+  "title": "AI for Subject Matter Experts",
+  "subtitle": "Learn how technology can be applied in different fields by extracting valuable insights from text.",
+  "features": [
+    {
+      "icon": "iconMarketing",
+      "title": "Marketing",
+      "content": "Identify opportunity for a $7b brand to increase their Amazon sales by >20%."
+    },
+    {
+      "icon": "iconCompliance",
+      "title": "Compliance",
+      "content": "Detect major fraud 2 months prior to it becoming national news."
+    },
+    {
+      "icon": "iconFinancial",
+      "title": "Financial",
+      "content": "Make every company’s relationships transparent to every investor."
+    },
+    {
+      "icon": "iconSocietal",
+      "title": "Societal",
+      "content": "Quantify coverage of alleged presidential corruption by 95% of US TV talk shows."
+    },
+    {
+      "icon": "iconShipping",
+      "title": "Shipping",
+      "content": "Quantify 97% of maritime world trade via Bills of Lading analysis."
+    },
+    {
+      "icon": "iconGovernment",
+      "title": "Government",
+      "content": "Identify 47 candidate Air Force suppliers in a database of 100k+ supplier descriptions."
+    }
+  ]
+}

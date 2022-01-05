@@ -1,0 +1,24 @@
+{
+  "title": "Explore your data with built-in tools",
+  "subtitle": "Learn how technology can be applied in different fields by extracting valuable insights from text.",
+  "toggles": [
+    {
+      "icon": "",
+      "image": "imageGraph",
+      "title": "Network graph",
+      "content": "Network graph is based on proximity not frequency"
+    },
+    {
+      "icon": "",
+      "image": "imageEvidence",
+      "title": "Evidence",
+      "content": "No more guesses. View the most related news articles."
+    },
+    {
+      "icon": "",
+      "image": "imageOvertime",
+      "title": "Stock overlay",
+      "content": "Find correlations easily."
+    }
+  ]
+}

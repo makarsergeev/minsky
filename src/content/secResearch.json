@@ -1,0 +1,26 @@
+{
+  "title": "Advancing AI / NLP research",
+  "subtitle": "Our scientists are leading experts in machine learning and natural language processing. We regularly publish in top ML and NLP conferences.",
+  "papers": [
+    {
+      "title": "Unsupervised Spectral Learning of WCFG as Low-Rank-Matrix Completion",
+      "authors": "Raphael Bailly, Xavier Carreras, Franco Luque, Ariadna Quattoni",
+      "place": "Conference on Neural Information Processing Systems (NIPS 2013)"
+    },
+    {
+      "title": "Local Loss Optimization in Operator Models: A New Insight Into Spectral Learning",
+      "authors": "Borja Balle, Ariadna Quattoni, Xavier Carreras",
+      "place": "International Conference on Machine Learning (ICML 2012)"
+    },
+    {
+      "title": "An Efficient Projection for L1-inf Regularization",
+      "authors": "Ariadna Quattoni, Xavier Carreras, Michael Collins, Trevor Darrell",
+      "place": "International Conference on Machine Learning (ICML 2009)"
+    },
+    {
+      "title": "Conditional Random Fields for Object Recognition",
+      "authors": "Ariadna. Quattoni, Michael Collins, Trevor Darrell",
+      "place": "Conference on Neural Information Processing Systems (NIPS 2005)"
+    }
+  ]
+}

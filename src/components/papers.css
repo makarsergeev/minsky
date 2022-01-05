@@ -1,0 +1,13 @@
+.papers {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    padding: 12px;
+}
+
+@media screen and (max-width: 768px) {
+    .papers {
+        flex-direction: column;
+        padding: 24px;
+    }
+}

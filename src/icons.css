@@ -1,0 +1,39 @@
+.iconAccuracy {
+    background: url("./assets/icons/accuracy.svg") 100% 100%;
+}
+
+.iconExternal {
+    background: url("./assets/icons/external.svg") 100% 100%;
+}
+
+.iconRobot {
+    background: url("./assets/icons/robot.svg") 100% 100%;
+}
+
+.iconRabbit {
+    background: url("./assets/icons/rabbit.svg") 100% 100%;
+}
+
+.iconMarketing {
+    background: url("./assets/icons/marketing.svg") 100% 100%;
+}
+
+.iconCompliance {
+    background: url("./assets/icons/compliance.svg") 100% 100%;
+}
+
+.iconFinancial {
+    background: url("./assets/icons/financial.svg") 100% 100%;
+}
+
+.iconSocietal {
+    background: url("./assets/icons/societal.svg") 100% 100%;
+}
+
+.iconShipping {
+    background: url("./assets/icons/shipping.svg") 100% 100%;
+}
+
+.iconGovernment {
+    background: url("./assets/icons/government.svg") 100% 100%;
+}

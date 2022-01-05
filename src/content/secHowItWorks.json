@@ -1,0 +1,87 @@
+{
+  "title": "How it works",
+  "subtitle": "Select sources or add your own to process the data",
+  "workflow": [
+    {
+      "title": "1. Collect data",
+      "blocks": [
+        {
+          "title": "World news",
+          "content": "7 continents, 72 regions, 195 countries"
+        },
+        {
+          "title": "Blogs & Forums",
+          "content": "Facebook, twitter, instagram, ..."
+        },
+        {
+          "title": "Integrations",
+          "content": "API, Gmail, Zendesk, Slack, Salesforce, "
+        },
+        {
+          "title": "CSV or PDF",
+          "content": "Files and folders"
+        }
+      ]
+    },
+    {
+      "title": "2. Analyze data",
+      "blocks": [
+        {
+          "title": "Identify entities",
+          "content": "Persons, Organizations, Products"
+        },
+        {
+          "title": "Extract segments",
+          "content": "Emotions, gags, traits, attitude"
+        },
+        {
+          "title": "Extract actions",
+          "content": "Arms sales, investments, meetings"
+        }
+      ]
+    },
+    {
+      "title": "3. Explore data",
+      "blocks": [
+        {
+          "title": "Minsky Dashboard",
+          "content": "Built-in data viz tools"
+        },
+        {
+          "title": "Integrations",
+          "content": "Filter out & pass only the data you need"
+        },
+        {
+          "title": "Post on social media",
+          "content": "Create automatic posts and replies"
+        },
+        {
+          "title": "Save to file",
+          "content": "You own the data"
+        }
+      ]
+    }
+  ],
+  "features": [
+    {
+      "icon": "iconAccuracy",
+      "title": "Granular",
+      "content": "Target your exact need,\nnot one size fits all"
+    },
+    {
+      "icon": "iconRabbit",
+      "title": "Nimble",
+      "content": "Get going in minutes,\nnot months"
+    },
+    {
+      "icon": "iconExternal",
+      "title": "Adaptive",
+      "content": "As your needs evolve, \nso does our AI"
+    },
+    {
+      "icon": "iconRobot",
+      "title": "Solutionized",
+      "content": "Use our trained readers to get value from the start"
+    }
+  ]
+}

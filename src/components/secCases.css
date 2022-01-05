@@ -1,0 +1,10 @@
+.secCases {
+}
+
+.secCases .features {
+    flex-wrap: wrap;
+}
+
+.secCases .feature {
+    flex: 1 0 30%;
+}
